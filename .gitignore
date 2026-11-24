@@ -1,0 +1,31 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/generated_plugin_registrant.dart
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PHP / API
+api-test/.env
+api-test/public/uploads/*
+!api-test/public/uploads/.gitkeep
+vendor/
+composer.lock
+
+# Divers
+*.log
