@@ -19,4 +19,4 @@
 10. `10_backend_api_json_et_terminal.png` — Réponses JSON (`/famille-membres`, `/stats`) & tests `curl.exe`
 
 ## Démonstration vidéo
-[Regarder la démonstration de mon application Flutter](./video.mp4)
+[Regarder la démonstration de mon application Flutter](../video.mp4)

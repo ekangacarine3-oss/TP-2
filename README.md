@@ -52,6 +52,10 @@ Projet académique **TP2** : application Flutter Material 3 avec CV interactif, 
 
 Les 10 captures sont disponibles dans le dossier [`captures/`](./captures).
 
+## Démonstration vidéo
+
+[Regarder la démonstration de mon application Flutter](./video.mp4)
+
 ## Auteur
 
 **ekangacarine3-oss** — ISIG GOMA
